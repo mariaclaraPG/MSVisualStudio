@@ -1,0 +1,16 @@
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\bin\Debug\net6.0-windows\HelloWindowsForms.exe
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\bin\Debug\net6.0-windows\HelloWindowsForms.deps.json
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\bin\Debug\net6.0-windows\HelloWindowsForms.runtimeconfig.json
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\bin\Debug\net6.0-windows\HelloWindowsForms.dll
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\bin\Debug\net6.0-windows\HelloWindowsForms.pdb
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.Form1.resources
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.csproj.GenerateResource.cache
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.AssemblyInfoInputs.cache
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.AssemblyInfo.cs
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.dll
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\refint\HelloWindowsForms.dll
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.pdb
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\HelloWindowsForms.genruntimeconfig.cache
+C:\Users\18948140612\pastaseila\HelloWindowsForms\HelloWindowsForms\obj\Debug\net6.0-windows\ref\HelloWindowsForms.dll
